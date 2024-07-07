@@ -1,0 +1,7 @@
+pydub
+pyannote.audio
+torch
+transformers
+torchvision
+speechRecognition
+spacy

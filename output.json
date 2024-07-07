@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "[Unintelligible]"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "I'm Jordan from Tik toks marketing team how are you today"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "hi Jordan I'm good thanks I was wondering how can tiktok help our business today"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "great to hear tiktok can help you reach a greater younger audience with engaging short form videos we specialize in creating tailored at campaigns that drive traffic and sales"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "that sounds interesting what do you need from us to get us"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "to get started I need to gather some information about your brain and marketing goals I'll send you a question there by the end of the day can you complete it by Friday"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "yes I can do"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "[Unintelligible]"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "once you complete the questionnaire I'll review it and send you a customized at strategy next week"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "sounds good I will look out for the questionnaire thanks"
+        },
+        {
+            "speaker": "SPEAKER_00",
+            "role": "salesman",
+            "message": "thank you Morgan talk to you"
+        }
+    ],
+    "summary": "Customer says to the salesman that he doesn't want to buy something. He doesn't know what it is, but he thinks it's a good idea.  .  ",
+    "keywords": "Tiktok, marketing team, brain, marketing goals, customized at strategy",
+    "tasks": [
+        "send a question there by complete by the end of the day",
+        "send a customized at by next week"
+    ]
+}
